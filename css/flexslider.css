@@ -32,9 +32,6 @@
 	width:100%;
 	display:block;
 }
-.flex-pauseplay span {
-	text-transform: capitalize;
-}
 /* Clearfix for the .slides element */
 .slides:after {
 	content:"\0020";
