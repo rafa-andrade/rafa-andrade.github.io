@@ -497,11 +497,9 @@ a {
   float:left;
   position:relative;
   width:100%;
-  height:auto;
 }
 .main-flexslider img {
   width:100%;
-  height:auto;
 }
 .main-flexslider .slides .slides {
   background-size:cover;
